@@ -1,0 +1,19 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhAgra/NodeTutorial.git"
+  },
+  "author": "Shubh <agrawal.shubhendu@gmail.com> (http://shubh.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhAgra/NodeTutorial/issues"
+  },
+  "homepage": "https://github.com/shubhAgra/NodeTutorial#readme"
+}
