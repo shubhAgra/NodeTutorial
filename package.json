@@ -1,10 +1,10 @@
 {
   "name": "nodetutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "understanding node js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/jasmine-node spec"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,21 @@
   "bugs": {
     "url": "https://github.com/shubhAgra/NodeTutorial/issues"
   },
-  "homepage": "https://github.com/shubhAgra/NodeTutorial#readme"
+  "homepage": "https://github.com/shubhAgra/NodeTutorial#readme",
+  "dependencies": {
+    "events": "^3.0.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "jade": "^1.11.0",
+    "jasmine-node": "^1.16.2",
+    "json": "^9.0.6",
+    "mongodb": "^3.2.3",
+    "pg": "^7.9.0",
+    "promise": "^8.0.3",
+    "q": "^1.5.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
 }
