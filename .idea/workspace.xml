@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7306291a-d21c-41b4-8286-445e31d14f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/EventTriggerExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/JadeTemplatingExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/additionExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/callbackDBExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/customPromiseExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/customPromiseExm1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/demo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/eventExample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/expressTestGetRequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/fileStreamExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/generatorExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/getRequestTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/multiPromiseExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/promiseExm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/routeExample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/test/additionExm-spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/views/index.jade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/additionExmSpec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/NodeTutorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/NodeTutorial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,6 +66,13 @@
       </list>
     </option>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/JavaSpringBootTut/JavaSpringBootTut.iml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="739" />
     <option name="y" value="109" />
@@ -117,22 +102,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="NodeTutorial" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaSpringBootTut" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
@@ -177,12 +153,12 @@
       <workItem from="1554963019543" duration="7741000" />
       <workItem from="1555048660163" duration="1489000" />
       <workItem from="1555063244107" duration="4847000" />
-      <workItem from="1555305610967" duration="11979000" />
+      <workItem from="1555305610967" duration="12223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26056000" />
+    <option name="totallyTimeSpent" value="26300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
